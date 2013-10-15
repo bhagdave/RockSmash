@@ -1,0 +1,24 @@
+# Module cftSpriteAtlas
+
+The class *ftSpriteAtlas* manages spritesheets inside the fantomEngine. It reduces the call to the device storage by imprting all relevant data into memory.
+
+# Import fantomEngine
+
+# Class cftSpriteAtlas.ftSpriteAtlas
+
+# Method GetAngleOffset:Float(imageName:String)
+
+# Method GetHeight:Int(imageName:String)
+
+# Method GetImage:Image(imageName:String)
+
+# Method GetImageCount:Int()
+
+# Method GetRotated:Bool(imageName:String)
+
+# Method GetWidth:Int(imageName:String)
+
+# Method Load:Void(imgName:String, dataName:String)
+
+# Method Remove:Void(discard:Bool = False)
+

@@ -1,0 +1,55 @@
++++ Functionality +++
+
+- Add the possibility to create animated objects from packed texture images.
+- Add the possibility to create an animated object from single images (add single images).
+- Create a sample script that shows how to animate sprites
+
+- Create a sound manager class to handle HTML5 sound playing better
+
+- Finish the particle emitter object.
+
+- Add support for margin and spacing in Tiled maps
+
+- Add Extended camera functionality (zoom, rotate)
+- Add multiple cameras/viewports
+
+- Add possibility to exchange colors in an image (image palettes?)
+- Add possibility to read and write pixel easily
+
+- Create a high level network support class
+- Create a skinable GUI class
+- Create a music tracker playback class
+- Create a global score management class
+- Add Google play service functions
+- Add 3D to fE
+
+- Add Ad-Networks (Revmob, Android, LeadBolt, etc.)
+
+- Add support for fontmachine fonts
+
+- Create some game templates
+
++++ Tools +++
+
+- Create a particle editor.
+- Create a physics editor
+- Create a texture packer
+- Create a Spine like animation tool
+- Create a GUI editor
+- Create a map editor
+- Create a bitmap font editor
+- Create a localization editor
+
++++ Website +++
+
+- Create a complete new website, maybe no blog anymore.
+- Create (more) tutorials
+
++++ HTML5 enhancements +++
+
+- Fullscreen
+- Black adress bar
+- Prevent scrolling
+- Don't use cache, always reload
+
+

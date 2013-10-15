@@ -1,0 +1,5 @@
+Play%;%DE%:%Spielen%;%JP%:%遊ぶ
+Options%;%DE%:%Optionen%;%JP%:%オプション
+Help%;%DE%:%Hilfe%;%JP%:%手伝う
+Buy%;%DE%:%Kaufen%;%JP%:%買う
+MultiLine%;%DE%:%Diese Zeile%LF%erscheint in zwei Zeilen

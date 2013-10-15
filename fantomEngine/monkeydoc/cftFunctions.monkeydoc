@@ -1,0 +1,32 @@
+# Module cftFunctions
+
+The module cftFunctions is a collection of several functions for IOS, ANDROID and HTML5 targets to retrieve some browser informations.
+
+# Function GetBrowserName:String()
+
+# Function GetBrowserPlatform:String()
+
+# Function GetBrowserVersion:String()
+
+# Function GetDeviceName:String()
+
+# Function GetHardware:String()
+
+# Function GetPitchRate:Float(halfStep:Float, base:Float=1.0)
+
+*Description*
+
+Calculates the pitchrate for the amount of given halfsteps.
+
+*Details*
+
+The default base note is 'A4'
+
+# Function GetProduct:String()
+
+# Function GetSerial:String()
+
+# Function GetUser:String()
+
+# Function MaximizeCanvas:Void()
+

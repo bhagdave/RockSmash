@@ -1,0 +1,52 @@
+# Module cftKeyMapping
+
+The module cftKeyMapping contains ...
+
+# Import fantomEngine
+
+# Class cftKeyMapping.ftKeyMapping
+
+The class *ftKeyMapping* is an object which helps you supporting different key maps in your app.
+
+# Method Clear:Void()
+
+*Description*
+
+This method clears all the mapping data.
+
+# Method GetKey:Int(keyCode:Int)
+
+*Description*
+
+This method returns the mapped key code.
+
+*Details*
+
+If no mapping is found, it will return the given key code.
+
+# Method LoadFromString:Void(mapStr:String)
+
+*Description*
+
+This method loads the keymapping class via a string
+
+*Details*
+
+The format of the string has to be (key;mappedKey~nkey;mappedKey...):
+
+65;32
+
+67;33
+
+# Method SaveToString:String()
+
+*Description*
+
+This method saves the key mapping data to a string.
+
+# Method SetKey:Void(keyCode:Int, mapCode:Int)
+
+*Description*
+
+This method sets the mapping of a key code.
+
