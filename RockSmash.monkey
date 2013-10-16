@@ -248,6 +248,7 @@ Class game Extends App
 		eng.CreateObjTimer(g.shield, g.tmShieldTime, 4500)
 		g.player.SetColGroup(0)
 		g.shield.SetActive(True)
+		score = score - 2000
 		Return 0
 	End
 	Method UpdateGameTime:Int()
